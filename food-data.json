@@ -7,7 +7,7 @@
 		"eta": "25",
 		"tags": ["American", "Indian","Fast-Food"],
 		"favourites" : true,
-		"image": "source"  
+		"image": "https://raw.githubusercontent.com/mourrehman/food-app/master/subway.jpg"  
 	},
   { 	
 		"id": 2,
